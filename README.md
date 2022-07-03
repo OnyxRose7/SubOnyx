@@ -3,7 +3,7 @@
  
 ## SETUP 
 Can be executed on any <b>Linux</b> machine. <br>
-To run this file you have first give "<b>execute</b>" permissions and run it like any normal bash script.<br>
+To run this file you have to first give "<b>execute</b>" permissions and run it like any normal bash script.<br>
 ```
 sudo chmod +x SubOnyx.sh
 ```
